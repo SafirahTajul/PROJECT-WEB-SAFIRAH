@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_LOGIN Panel_txtUsername</name>
+   <name>input_Username_txtPassword (1)</name>
    <tag></tag>
-   <elementGuidId>4be214a8-5e38-4cbc-9ae0-cabd33e33150</elementGuidId>
+   <elementGuidId>fa1e6867-b0e6-4132-a3c3-921193e6d462</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='txtUsername']</value>
+         <value>//input[@id='txtPassword']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#txtUsername</value>
+         <value>#txtPassword</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -28,55 +28,62 @@
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>txtUsername</value>
+      <value>txtPassword</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>txtUsername</value>
+      <value>txtPassword</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
-      <value>text</value>
+      <value>password</value>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;txtUsername&quot;)</value>
+      <value>id(&quot;txtPassword&quot;)</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='txtUsername']</value>
+      <value>//input[@id='txtPassword']</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='divUsername']/input</value>
+      <value>//div[@id='divPassword']/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/input</value>
+      <value>//div[3]/input</value>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'txtUsername' and @id = 'txtUsername' and @type = 'text']</value>
+      <value>//input[@name = 'txtPassword' and @id = 'txtPassword' and @type = 'password']</value>
    </webElementXpaths>
 </WebElementEntity>

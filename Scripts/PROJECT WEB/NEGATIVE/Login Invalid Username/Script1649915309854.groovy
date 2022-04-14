@@ -21,15 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), 
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername (1)'), 
     'Orange')
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/input_Username_txtPassword'), 
+WebUI.setText(findTestObject('null'), 
     GlobalVariable.Password)
 
-WebUI.click(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/input_Password_Submit'))
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Password_Submit'))
 
-WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/span_Invalid credentials'), 'Invalid credentials')
+WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/span_Invalid credentials'), 'Invalid credentials')
 
 WebUI.closeBrowser()
 

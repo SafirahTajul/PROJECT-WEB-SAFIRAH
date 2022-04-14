@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_LOGIN Panel_txtUsername</name>
+   <name>input_LOGIN Panel_txtUsername (1)</name>
    <tag></tag>
    <elementGuidId>e591ef80-d7e1-4797-8b84-088528d98ebc</elementGuidId>
    <selectorCollection>

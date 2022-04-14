@@ -21,17 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
-WebUI.click(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/span_Username'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), 
-    GlobalVariable.Username)
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), GlobalVariable.Username)
 
-WebUI.setEncryptedText(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Username_txtPassword'), 
-    'RAIVpflpDOg=')
+WebUI.setEncryptedText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Username_txtPassword (1)'), 'RAIVpflpDOg=')
 
-WebUI.click(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/Page_OrangeHRM/input_Password_Submit'))
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Password_Submit'))
 
-WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/Page_OrangeHRM/span_Invalid credentials'), 'Invalid credentials')
+WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/span_Invalid credentials'), 'Invalid credentials')
 
 WebUI.closeBrowser()
 
