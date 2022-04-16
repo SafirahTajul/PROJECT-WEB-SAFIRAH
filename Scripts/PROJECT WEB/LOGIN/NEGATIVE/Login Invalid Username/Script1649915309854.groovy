@@ -21,11 +21,9 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl(GlobalVariable.Url)
 
-WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername (1)'), 
-    'Orange')
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername (1)'), 'Orange')
 
-WebUI.setText(findTestObject('null'), 
-    GlobalVariable.Password)
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Username_txtPassword'), GlobalVariable.Password)
 
 WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Password_Submit'))
 

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User enter an unregister report name</description>
+   <name>Search Unregister Report</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>b733905d-90a3-4f1a-b2d2-cd1ad2fd0ff6</testCaseGuid>
+</TestCaseEntity>

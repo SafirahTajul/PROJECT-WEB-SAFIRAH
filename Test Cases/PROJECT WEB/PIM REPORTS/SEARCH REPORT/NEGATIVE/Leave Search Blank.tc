@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Users leave the report name black</description>
+   <name>Leave Search Blank</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>acdaf9b7-fce3-4bcf-9138-51f57d60d091</testCaseGuid>
+</TestCaseEntity>

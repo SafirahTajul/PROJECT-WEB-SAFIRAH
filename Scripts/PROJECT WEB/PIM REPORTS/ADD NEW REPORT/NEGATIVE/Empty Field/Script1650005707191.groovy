@@ -17,19 +17,3 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl(GlobalVariable.Url)
-
-WebUI.click(findTestObject('null'))
-
-WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), GlobalVariable.Username)
-
-WebUI.setEncryptedText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Username_txtPassword (1)'), 'RAIVpflpDOg=')
-
-WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Password_Submit'))
-
-WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/span_Invalid credentials'), 'Invalid credentials')
-
-WebUI.closeBrowser()
-
