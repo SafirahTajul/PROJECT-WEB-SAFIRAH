@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Added New Report - Add Education</name>
+   <name>Add New Report - Add Skill</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>5be0f612-40fd-401a-9bfe-c1d4a973687d</testCaseGuid>
+   <testCaseGuid>8bc62876-aafe-48b0-af1f-8c2ed5405949</testCaseGuid>
 </TestCaseEntity>

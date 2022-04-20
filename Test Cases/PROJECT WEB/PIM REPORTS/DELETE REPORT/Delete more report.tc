@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestCaseEntity>
    <description></description>
-   <name>Added New Report - Add Skill</name>
+   <name>Delete more report</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>8bc62876-aafe-48b0-af1f-8c2ed5405949</testCaseGuid>
+   <testCaseGuid>f36276c0-d80a-4fca-888f-026d7262435d</testCaseGuid>
 </TestCaseEntity>
