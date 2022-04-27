@@ -17,3 +17,25 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.Url)
+
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), GlobalVariable.Username)
+
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Username_txtPassword'), GlobalVariable.Password)
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Password_Submit'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/b_PIM'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/a_Reports'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Report Name_btnAdd'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input__btnSave'))
+
+WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/span_Required'), 'Required')
+
+WebUI.closeBrowser()
+

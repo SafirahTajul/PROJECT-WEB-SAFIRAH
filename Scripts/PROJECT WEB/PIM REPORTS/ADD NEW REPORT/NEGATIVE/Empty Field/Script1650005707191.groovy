@@ -17,3 +17,36 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.Url)
+
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), GlobalVariable.Username)
+
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Username_txtPassword'), GlobalVariable.Password)
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Password_Submit'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/b_PIM'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/a_Reports'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Report Name_btnAdd'))
+
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input__reportreport_name'), 'Employee Skill Report')
+
+WebUI.selectOptionByValue(findTestObject('PROJECT WEB/Page_OrangeHRM/select_Pay GradeEducationEmployment StatusService PeriodJoined DateJob TitleLanguageAge GroupSub UnitGenderLocationEmployee Name'), 
+    'skill', true)
+
+WebUI.selectOptionByValue(findTestObject('PROJECT WEB/Page_OrangeHRM/select_Current Employees OnlyCurrent and Past EmployeesPast Employees Only'), 
+    '1', true)
+
+WebUI.selectOptionByValue(findTestObject('PROJECT WEB/Page_OrangeHRM/select_Personal Contact Details Emergency C_da5165'), 
+    'display_group_12', true)
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input__btnSave'))
+
+WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/span_Required'), 'Required')
+
+WebUI.closeBrowser()
+

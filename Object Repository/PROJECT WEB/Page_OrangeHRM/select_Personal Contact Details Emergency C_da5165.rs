@@ -3,15 +3,15 @@
    <description></description>
    <name>select_Personal Contact Details Emergency C_da5165</name>
    <tag></tag>
-   <elementGuidId>735a8842-4430-45e9-953f-32f7a85f1e5e</elementGuidId>
+   <elementGuidId>bbcc184e-f21b-4a48-af4b-6353bf610afb</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#report_display_groups</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//select[@id='report_display_groups']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#report_display_groups</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>6d3df86c-04aa-4dbe-a35c-47057624a230</webElementGuid>
+      <webElementGuid>50c4d513-91b6-4989-bde9-d0997f45a077</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>name</name>
       <type>Main</type>
       <value>report[display_groups]</value>
-      <webElementGuid>da9da382-277d-4083-99c8-339c70ab6476</webElementGuid>
+      <webElementGuid>cf3808df-0202-41cb-b679-86147a7e1374</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>report_display_groups</value>
-      <webElementGuid>39e7153e-84b1-4a4b-bfa8-4ab0b4fe0c0c</webElementGuid>
+      <webElementGuid>bdf4fc46-f2ec-4e2b-978b-074345276faa</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -63,7 +63,7 @@
 
 
 Personal Contact Details Emergency Contacts Dependents Memberships Work Experience Education Skills Languages License Supervisors Subordinates Salary Job Immigration Custom Fields </value>
-      <webElementGuid>7252b58d-96df-4afc-8260-831c776fb17d</webElementGuid>
+      <webElementGuid>b1145a5c-400a-4d2b-a119-fec5e2bc7d80</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -71,7 +71,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;report_display_groups&quot;)</value>
-      <webElementGuid>32096ce9-702e-4ae0-b799-99e2dded290f</webElementGuid>
+      <webElementGuid>7566978c-5f80-4a85-9e3a-7ec0ee2df092</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -79,7 +79,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='report_display_groups']</value>
-      <webElementGuid>13d67cd5-6090-4324-8177-d027dce45679</webElementGuid>
+      <webElementGuid>fadd0946-c2f1-417d-b3e2-19bae11721e7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,7 +87,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//fieldset[@id='display_field_selection']/ol/li/select</value>
-      <webElementGuid>1e4ec6b3-b71a-485b-a640-10d3178bf19c</webElementGuid>
+      <webElementGuid>1d797b11-0a76-413e-b495-6cb481beecc9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,7 +95,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Field Groups'])[1]/following::select[1]</value>
-      <webElementGuid>811b84bd-358e-42e5-a715-f5de0f5fc43e</webElementGuid>
+      <webElementGuid>95d8c0e0-4f29-484a-98a3-80a45ffc2154</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +103,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='*'])[3]/following::select[2]</value>
-      <webElementGuid>e79daa94-08e9-4e3f-8d27-1ebf4069177c</webElementGuid>
+      <webElementGuid>bba98704-8361-4d97-9260-be0e9d62b7ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +111,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add'])[2]/preceding::select[1]</value>
-      <webElementGuid>29cb6060-6802-4716-a69d-e7809fe1a887</webElementGuid>
+      <webElementGuid>e42a064d-7004-4f34-81a3-089b4d81c782</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +119,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Display Fields'])[1]/preceding::select[1]</value>
-      <webElementGuid>be46ee20-8e42-48e3-907d-a0b083175d8b</webElementGuid>
+      <webElementGuid>bb32cabe-d2b1-48c9-ace3-307965283565</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +127,7 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
       <name>xpath:position</name>
       <type>Main</type>
       <value>//fieldset[5]/ol/li/select</value>
-      <webElementGuid>cf982347-9d77-41d1-9647-35744416d6e9</webElementGuid>
+      <webElementGuid>518bac4b-4c9e-4a88-ba33-3dbef24916b6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -169,6 +169,6 @@ Personal Contact Details Emergency Contacts Dependents Memberships Work Experien
 
 
 Personal Contact Details Emergency Contacts Dependents Memberships Work Experience Education Skills Languages License Supervisors Subordinates Salary Job Immigration Custom Fields ')]</value>
-      <webElementGuid>2735c1e7-e447-49a2-831d-987ad40c31f8</webElementGuid>
+      <webElementGuid>69285b55-19ed-4f61-936f-cab079b1d4a9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

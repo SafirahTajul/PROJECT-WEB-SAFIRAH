@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_General Information</name>
+   <tag></tag>
+   <elementGuidId>9c02b85e-3273-4693-bb28-123500c66609</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='menu_admin_viewOrganizationGeneralInformation']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#menu_admin_viewOrganizationGeneralInformation</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>2d10e24b-c352-46c0-87ea-06be08e8454a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/index.php/admin/viewOrganizationGeneralInformation</value>
+      <webElementGuid>0ce449b2-25ec-48c1-b10c-fa8be3bb99f7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>menu_admin_viewOrganizationGeneralInformation</value>
+      <webElementGuid>d94d35a8-8ee8-4842-ac2a-2a76d7fd0746</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>General Information</value>
+      <webElementGuid>6c68572f-3000-44b2-9727-3f89b986be94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;menu_admin_viewOrganizationGeneralInformation&quot;)</value>
+      <webElementGuid>0067d423-310c-42ce-b7c8-296fce92df73</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='menu_admin_viewOrganizationGeneralInformation']</value>
+      <webElementGuid>d03ce865-fccc-4a5e-8f93-16cebb54e0f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='mainMenuFirstLevelUnorderedList']/li/ul/li[3]/ul/li/a</value>
+      <webElementGuid>2170ce63-c7ee-4243-be60-97083f1eb0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'General Information')]</value>
+      <webElementGuid>00e17a5a-43c9-47b8-9bb6-730d0041b465</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Work Shifts'])[1]/following::a[2]</value>
+      <webElementGuid>66ddf057-2af1-44cb-901f-71cc765e2ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Job Categories'])[1]/following::a[3]</value>
+      <webElementGuid>b36b08b8-0a1f-4b42-beb1-61e7c52290e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Locations'])[1]/preceding::a[1]</value>
+      <webElementGuid>e7ed6226-5d5f-4d75-808f-914c0b6c0786</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Structure'])[1]/preceding::a[2]</value>
+      <webElementGuid>a20cfa30-2074-4c2a-88d7-babbfc91f98d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='General Information']/parent::*</value>
+      <webElementGuid>6568ecde-9655-419e-abb1-c2cd25cdeb6c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/index.php/admin/viewOrganizationGeneralInformation')]</value>
+      <webElementGuid>820d1395-5371-436f-9d30-66196b2f71b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li/ul/li[3]/ul/li/a</value>
+      <webElementGuid>9181e169-b0d9-4af0-a93d-1e3c5198481d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/index.php/admin/viewOrganizationGeneralInformation' and @id = 'menu_admin_viewOrganizationGeneralInformation' and (text() = 'General Information' or . = 'General Information')]</value>
+      <webElementGuid>d7318dbd-5fc4-4ca3-a365-40102780cda2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

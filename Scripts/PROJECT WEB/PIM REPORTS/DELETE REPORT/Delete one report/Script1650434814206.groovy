@@ -17,3 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
+WebUI.openBrowser('')
+
+WebUI.navigateToUrl(GlobalVariable.Url)
+
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_LOGIN Panel_txtUsername'), GlobalVariable.Username)
+
+WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Username_txtPassword'), GlobalVariable.Password)
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Password_Submit'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/b_PIM'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/a_Reports'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/td_Employee Skill'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Report Name_btnDelete'))
+
+WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_OrangeHRM - Confirmation Required_dialogDeleteBtn'))
+
+WebUI.verifyElementText(findTestObject('PROJECT WEB/Page_OrangeHRM/div_Successfully Deleted       Close'), 'Successfully Deleted')
+
+WebUI.closeBrowser()
+

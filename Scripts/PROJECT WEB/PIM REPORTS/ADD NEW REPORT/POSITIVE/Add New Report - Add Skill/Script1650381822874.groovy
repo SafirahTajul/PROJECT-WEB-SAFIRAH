@@ -35,15 +35,13 @@ WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Report Name_btnAdd'
 
 WebUI.setText(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/input__reportreport_name (1)'), 'Employee Skill')
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/select_Employee NamePay GradeEducationEmplo_8a679c (1)'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'skill', true)
 
-WebUI.selectOptionByValue(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/select_Personal Contact Details Emergency C_da5165'), 
+WebUI.selectOptionByValue(findTestObject('null'), 
     'display_group_12', true)
 
 WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/a_Add'))
-
-WebUI.click(findTestObject('Object Repository/PROJECT WEB/Page_OrangeHRM/input_Skills (Include Header)_display_groups'))
 
 WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input__btnSave'))
 

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <TestSuiteEntity>
    <description></description>
-   <name>Login</name>
+   <name>LOGIN</name>
    <tag></tag>
    <isRerun>false</isRerun>
    <mailRecipient></mailRecipient>
@@ -10,23 +10,12 @@
    <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
    <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
    <rerunImmediately>true</rerunImmediately>
-   <testSuiteGuid>c8fab2a7-2b9b-4380-aaac-bda50b0255b6</testSuiteGuid>
+   <testSuiteGuid>1d94cf5f-b82d-4504-ae4c-3055be71aeca</testSuiteGuid>
    <testCaseLink>
-      <guid>ed6565e7-7f31-4652-8812-2915d2ae465c</guid>
+      <guid>2a242d33-dd7e-4964-828a-df19c8d84deb</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
-      <testCaseId>Test Cases/PROJECT WEB/LOGIN/POSITIVE/Login Successfull</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>f31c3ea7-463e-48b6-a03d-460720d1b2e4</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/PROJECT WEB/LOGIN/NEGATIVE/Login Invalid Username</testCaseId>
-   </testCaseLink>
-   <testCaseLink>
-      <guid>25308419-f385-4b36-a31c-4193decf7dbd</guid>
-      <isReuseDriver>false</isReuseDriver>
-      <isRun>true</isRun>
-      <testCaseId>Test Cases/PROJECT WEB/LOGIN/NEGATIVE/Login Incorrect Password</testCaseId>
+      <testCaseId>Test Cases/PROJECT WEB/LOGIN/Login Successfull</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
    </testCaseLink>
 </TestSuiteEntity>

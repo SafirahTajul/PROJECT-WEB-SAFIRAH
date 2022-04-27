@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Aiman  Adam</name>
+   <tag></tag>
+   <elementGuidId>a5478eef-a564-4ee3-8a4e-a856db76d01a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/tbody/tr[1]/td[3]/a//preceding::input[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.left > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>6a681d6f-6170-46c3-9d54-c7e443ce74a3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>addCandidate?id=25</value>
+      <webElementGuid>f5c27b0e-38ac-448e-ad29-95034006341f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Aiman  Adam</value>
+      <webElementGuid>147d3548-c068-4b7d-aca9-05c06cefbf2e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;left&quot;]/a[1]</value>
+      <webElementGuid>e255ad61-6b58-4586-82aa-90f9eed38671</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/tbody/tr/td[3]/a</value>
+      <webElementGuid>f10de04f-2eb0-475c-9322-0fe2189ce636</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Aiman  Adam')]</value>
+      <webElementGuid>e6088a15-61d8-4f67-a8b3-b93568888200</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resume'])[1]/following::a[1]</value>
+      <webElementGuid>69104694-f07e-44a7-a124-0b48a9e6ff02</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[2]/following::a[1]</value>
+      <webElementGuid>25ba88fb-e44a-4157-b525-a906858170e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'addCandidate?id=25')]</value>
+      <webElementGuid>7ba85a4a-c77e-4edd-900e-b23e67b1d426</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/a</value>
+      <webElementGuid>2b147a94-89d0-4023-81e2-40344393ec8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'addCandidate?id=25' and (text() = 'Aiman  Adam' or . = 'Aiman  Adam')]</value>
+      <webElementGuid>2a7e3eb2-9c7a-4604-9b8c-a4f57f84ed7f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

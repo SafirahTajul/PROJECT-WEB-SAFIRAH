@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Report Name</name>
+   <tag></tag>
+   <elementGuidId>9a2be658-4058-4460-bbad-3c2019bd9b1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/thead/tr/th[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.null</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>08287e0f-6919-49ac-8e82-d8261d32d006</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://opensource-demo.orangehrmlive.com/index.php/core/viewDefinedPredefinedReports?sortField=name&amp;sortOrder=ASC</value>
+      <webElementGuid>a6c167cc-d9af-4130-8be3-79ee5138e38c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Report Name</value>
+      <webElementGuid>f70779bb-f2d6-418d-ad16-ffb046fc6791</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/thead[1]/tr[1]/th[@class=&quot;header&quot;]/a[@class=&quot;null&quot;]</value>
+      <webElementGuid>b2bba65a-2a6a-42cc-b918-acf555961ec4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/thead/tr/th[2]/a</value>
+      <webElementGuid>498efa45-bcf5-46bc-a0bf-f75c5c3c91f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Report Name')]</value>
+      <webElementGuid>29e4aaa8-3a1a-43f9-b4f4-c5c17e532e41</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Report Name'])[1]/following::a[2]</value>
+      <webElementGuid>f9a00a66-9879-41d6-94e7-2051771bca6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Employee Reports'])[2]/following::a[2]</value>
+      <webElementGuid>ed963c3e-df89-460c-b798-9c2507b8ce9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='All Employee Sub Unit Hierarchy Report'])[1]/preceding::a[1]</value>
+      <webElementGuid>ba0bfbf1-6bf4-4020-8284-72369f89a887</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Run'])[1]/preceding::a[1]</value>
+      <webElementGuid>5d2e499a-3c46-4eb3-948c-bae8b12bb8b0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://opensource-demo.orangehrmlive.com/index.php/core/viewDefinedPredefinedReports?sortField=name&amp;sortOrder=ASC')]</value>
+      <webElementGuid>7a3a56fb-fe13-4bad-a52e-b5fdc11d9e18</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//th[2]/a</value>
+      <webElementGuid>730f985f-410e-44fd-b94c-22287e65570a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://opensource-demo.orangehrmlive.com/index.php/core/viewDefinedPredefinedReports?sortField=name&amp;sortOrder=ASC' and (text() = 'Report Name' or . = 'Report Name')]</value>
+      <webElementGuid>2ba3752e-1018-458b-9257-c883064f380f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

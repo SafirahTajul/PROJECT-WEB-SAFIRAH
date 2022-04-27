@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sales Representative</name>
+   <tag></tag>
+   <elementGuidId>78e3b719-23f1-4b56-a155-15e3e6f71f96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/tbody/tr[6]/td[2]/a//preceding::input[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4694274e-e771-48ec-a9c8-e33132c993be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>addJobVacancy?Id=2</value>
+      <webElementGuid>3c810e9e-fc7e-4547-b597-a7b0a1815996</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sales Representative</value>
+      <webElementGuid>4efc37cc-5368-49b1-aedc-a7653ccfc592</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/tbody[1]/tr[@class=&quot;even&quot;]/td[@class=&quot;left&quot;]/a[1]</value>
+      <webElementGuid>66d916ec-4fed-44eb-84d8-1f47ab097827</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/tbody/tr[6]/td[2]/a</value>
+      <webElementGuid>1015b5be-29eb-4053-8524-bb17557e74f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sales Representative')]</value>
+      <webElementGuid>cdd015ce-7ce6-4464-81ff-c3571ae390f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Active'])[6]/following::a[1]</value>
+      <webElementGuid>bfeea395-dbb0-4174-9367-2a9f19d2cfcc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Odis Adalwin'])[3]/following::a[1]</value>
+      <webElementGuid>5ddf1900-a235-4a51-8c24-30d5f2f0cae2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sales Representative'])[4]/preceding::a[1]</value>
+      <webElementGuid>c0bccd97-e891-41dc-82a2-da3dcee8ad13</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Linda Jane Anderson'])[2]/preceding::a[1]</value>
+      <webElementGuid>6f9d74ea-7c06-4139-855f-dfe514cb67f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'addJobVacancy?Id=2')]</value>
+      <webElementGuid>543912a2-0911-4ef4-b359-e2a7b57c6a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[6]/td[2]/a</value>
+      <webElementGuid>f17a5ef4-f611-4233-9d53-ebfb4a286a42</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'addJobVacancy?Id=2' and (text() = 'Sales Representative' or . = 'Sales Representative')]</value>
+      <webElementGuid>742a293d-e528-43d2-a048-09b5c1b19dc1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

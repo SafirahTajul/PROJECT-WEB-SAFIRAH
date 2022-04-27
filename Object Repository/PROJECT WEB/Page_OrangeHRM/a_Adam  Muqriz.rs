@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Adam  Muqriz</name>
+   <tag></tag>
+   <elementGuidId>d0e85b2b-65ce-44d9-a2fd-446d6bbc3edd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//table[@id='resultTable']/tbody/tr[3]/td[3]/a//preceding::input[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>d85c2c03-aaee-47a4-9859-b24ef2ce49c0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>addCandidate?id=24</value>
+      <webElementGuid>a5c92d83-f17e-4586-b309-614db8c26472</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Adam  Muqriz</value>
+      <webElementGuid>38f327f5-8dd8-46f4-b336-fd8f1e4fc744</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resultTable&quot;)/tbody[1]/tr[@class=&quot;odd&quot;]/td[@class=&quot;left&quot;]/a[1]</value>
+      <webElementGuid>fa5de604-be6c-4b2f-b8a1-34b0c32a8669</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//table[@id='resultTable']/tbody/tr[3]/td[3]/a</value>
+      <webElementGuid>fcac7af6-cdb5-4322-828d-2c80c81b52fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Adam  Muqriz')]</value>
+      <webElementGuid>0dc479b9-6d8f-42c9-9a5f-5ceb7b5688bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Associate IT Manager'])[2]/preceding::a[2]</value>
+      <webElementGuid>bfd909da-bb06-414f-b5b1-3c26bbe939b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'addCandidate?id=24')]</value>
+      <webElementGuid>c3eedf24-5ab8-4408-a8de-89700d27e76c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[3]/a</value>
+      <webElementGuid>2f4ce74d-6ac3-4c7e-8579-ac07fc12660a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'addCandidate?id=24' and (text() = 'Adam  Muqriz' or . = 'Adam  Muqriz')]</value>
+      <webElementGuid>197f0b4e-a538-40cd-9ca1-899b7933636b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

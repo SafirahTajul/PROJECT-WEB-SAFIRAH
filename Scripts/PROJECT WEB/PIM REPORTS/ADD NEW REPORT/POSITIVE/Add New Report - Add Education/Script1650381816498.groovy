@@ -35,10 +35,10 @@ WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/input_Report Name_btnAdd'
 
 WebUI.setText(findTestObject('PROJECT WEB/Page_OrangeHRM/input__reportreport_name'), 'Employee Status')
 
-WebUI.selectOptionByValue(findTestObject('PROJECT WEB/Page_OrangeHRM/select_Employee NamePay GradeEducationEmplo_8a679c'), 
+WebUI.selectOptionByValue(findTestObject('PROJECT WEB/Page_OrangeHRM/select_Pay GradeEducationEmployment StatusService PeriodJoined DateJob TitleLanguageAge GroupSub UnitGenderLocationEmployee Name'), 
     'employment_status', true)
 
-WebUI.selectOptionByValue(findTestObject('PROJECT WEB/Page_OrangeHRM/select_Current Employees OnlyCurrent and Pa_5c2d89'), 
+WebUI.selectOptionByValue(findTestObject('PROJECT WEB/Page_OrangeHRM/select_Current Employees OnlyCurrent and Past EmployeesPast Employees Only'), 
     '2', true)
 
 WebUI.click(findTestObject('PROJECT WEB/Page_OrangeHRM/a_Add'))

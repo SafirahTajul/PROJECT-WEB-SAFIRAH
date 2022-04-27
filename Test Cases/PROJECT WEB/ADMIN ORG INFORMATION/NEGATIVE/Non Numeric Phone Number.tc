@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Non Numeric Phone Number</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d921e2d2-f89a-4eae-b61b-922d70fc217b</testCaseGuid>
+</TestCaseEntity>
